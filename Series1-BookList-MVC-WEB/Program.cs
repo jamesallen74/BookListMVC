@@ -7,6 +7,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
+//// TODO: Continue at https://youtu.be/C5cnZ-gZy2I?t=8881
+
 namespace Series1_BookList_MVC_WEB
 {
     public class Program
